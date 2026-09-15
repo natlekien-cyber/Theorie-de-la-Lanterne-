@@ -1,4 +1,4 @@
-# Th-orie-de-la-lanterne ================================================================================
+# Theorie-de-la-lanterne ================================================================================
 MANIFESTE DE LA LANTERNE FRACTALE (VERSION ENRICHIE V2)
 Formalisation d’une théorie dynamique des systèmes complexes,
 de la sélection évolutive et de la réalité quantique interactionnelle
