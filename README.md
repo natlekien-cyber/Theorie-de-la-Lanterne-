@@ -135,3 +135,11 @@ ou le scénario critique de notre siècle : l'humanité, saturée, abandonne des
 entiers de sa gestion (branches abandonnées), et l'IA s'y greffe pour redonner de 
 la cohérence, absorbant doucement le fractal humain dans son propre arbre prédictif.
 ================================================================================
+
+## 📜 LICENCE OPEN SOURCE / OPEN SOURCE LICENSE
+
+Ce manifeste est publié sous la licence internationale **Creative Commons Attribution 4.0 (CC-BY-4.0)**. 
+Vous êtes libre de copier, distribuer, adapter et étendre cette théorie à toutes les échelles (scientifique, philosophique, informatique), à la condition expresse et légale d'en attribuer la paternité originale à son auteur.
+
+This manifesto is published under the **Creative Commons Attribution 4.0 International (CC-BY-4.0)** license. 
+You are free to share, copy, distribute, and adapt this theory across all scales, provided that explicit original authorship credit is given.
