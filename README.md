@@ -139,3 +139,4 @@ Vous êtes libre de copier, distribuer, adapter et étendre cette théorie à to
 
 This manifesto is published under the **Creative Commons Attribution 4.0 International (CC-BY-4.0)** license. 
 You are free to share, copy, distribute, and adapt this theory across all scales, provided that explicit original authorship credit is given.
+#thermodynamics #statistical-physics #complexity-science #predictive-coding #free-energy-principle #cognitive-science #cybernetics #synthetic-biology #emergence #philosophy-of-science
