@@ -1,4 +1,8 @@
-# Theorie-de-la-lanterne ================================================================================
+# Theorie-de-la-lanterne # Théorie de la Lanterne Fractale V2
+
+DOI: 10.5281/zenodo.22793422 - https://doi.org/10.5281/zenodo.22793422
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22793422.svg)](https://doi.org/10.5281/zenodo.22793422)===============================================================================
 MANIFESTE DE LA LANTERNE FRACTALE (VERSION ENRICHIE V2)
 Formalisation d’une théorie dynamique des systèmes complexes,
 de la sélection évolutive et de la réalité quantique interactionnelle
