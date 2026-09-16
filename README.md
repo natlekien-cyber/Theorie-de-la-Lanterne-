@@ -73,17 +73,13 @@ Soit E_dispo l'énergie résiduelle du système.
 Lorsque C_t > C_max (Saturation Prédictive), la survie (Lambda) est menacée. 
 Le système active l'une des issues selon ses ressources (E_dispo) :
 
-1. E_dispo >> 0 : Le Saut Rétrograde Hélicoïdal ou la Transformation (Bifurcation).
-   Le système paie un malus énergétique lourd à court terme pour reculer ou muter 
-   vers une nouvelle structure, car continuer en ligne droite réduirait sa survie 
-   à zéro. Le recul est le prix de la vie.
-2. E_dispo limitée : Le Confinement.
-   Le système s'isole, crée un "Criblage de Markov" étanche, coupe ses flux avec 
-   l'extérieur pour réduire ses dépenses informationnelles et hiberner.
-3. E_dispo -> 0 : La Simplification Radicale (Dégradation Fonctionnelle).
-   Le système sacrifie des pans entiers de son modèle fractal. Il devient "bête" 
-   ou primitif pour abaisser instantanément C_t sous C_max afin de ne pas s'éteindre.
 
+
+1. Modifier sa trajectoire (E_dispo maximale) : Ajustement et infléchissement local de la course sans changer de structure.
+2. Réduire son exposition (E_dispo élevée) : Atténuation et diminution de l'amplitude des actions (a_t -> 0) pour ralentir la production de traces.
+3. Simplifier son modèle (E_dispo baisse -> 0) : Le système applique une régularisation (type Lasso) et sacrifie ses branches fractales complexes. Il accepte de devenir "bête" ou fruste (dégradation fonctionnelle) pour baisser son Ct sous son Cmax et sauver sa vie.
+4. Le Régime de Confinement (E_dispo limitée) : Isolation topologique ou logique (fermeture du faisceau de la lanterne θ -> 0) où le flux d'information mutuelle s'annule pour stopper net la surcharge extérieure.
+5. Se Transformer / Bifurquer (E_d
 --------------------------------------------------------------------------------
 IV. EXTENSIONS THÉORIQUES INFRA ET MACROSCOPIQUES
 --------------------------------------------------------------------------------
